@@ -38,5 +38,8 @@ autonomous_delivery_agent/
 ### Installation
 1. Clone or download this repository.
 
-2. Ensure folder structure:
+2. Ensure folder structure:as above in prequisites.
+
+Thankyou.
+
 
