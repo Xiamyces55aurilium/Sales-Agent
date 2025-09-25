@@ -1,0 +1,13 @@
+width: 5
+height: 5
+
+terrain:
+1 1 1 1 1
+1 2 2 2 1
+1 2 1 2 1
+1 2 2 2 1
+1 1 1 1 1
+
+static: (2,2)
+
+dynamic:
